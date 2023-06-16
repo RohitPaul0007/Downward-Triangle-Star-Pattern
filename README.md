@@ -1,1 +1,1 @@
- Downward-Triangle-Star-Pattern in JS
+ DOWNWARD-TRIANGLE-STAR-PATTERN IN JS
